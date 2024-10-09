@@ -31,12 +31,15 @@
 
 ### Sensor
 - 불꽃감지센서 (적외선 감지)
+
 ![image](https://github.com/user-attachments/assets/baf3fd3f-cf25-4b11-a72c-8c7a52aea91f)
 - 초음파 센서 (전방 장애물 감지)
+
 ![image](https://github.com/user-attachments/assets/0dd54f43-ce4e-48e4-a99b-acaa8296deb0)
 
 ### Control
 - Arduino UNO Board (추후 Arduino Mega Board로 교체)
+
 ![image](https://github.com/user-attachments/assets/41abf87c-677f-4c56-9169-c6cbe620e69c)
 
 ### Fire extinguish
@@ -44,6 +47,7 @@
 
 ## Result
 - 최종 형상:
+
 ![최종 형상](https://github.com/user-attachments/assets/5a213b8b-4e2b-4ab6-83d5-cbc5e0db345a)
 - 불꽃 감지 거리: 15cm
 - 소화액 분사 거리: 15-25cm
