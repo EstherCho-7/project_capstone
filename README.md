@@ -49,6 +49,8 @@
 - 최종 형상:
 
 ![최종 형상](https://github.com/user-attachments/assets/5a213b8b-4e2b-4ab6-83d5-cbc5e0db345a)
+![시연 사진](https://github.com/user-attachments/assets/33f109ea-f032-4b31-815b-41cbe42fb8c9)
+
 - 불꽃 감지 거리: 15cm
 - 소화액 분사 거리: 15-25cm
 - 총 6회 분사, 5회 성공
